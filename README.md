@@ -16,18 +16,17 @@
 - Microservices architecture
 
 ---
-
+<!--
 ### ✨ Projects
 Here are some of the projects I'm proud of:
 - **Project 1:** _Short description with a link to the repo_ 
 - **Project 2:** _Another description with a link_
 
 ---
-
+-->
 ### 💬 Let's Connect:
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/juan-saez-482a81236)
-- **Email:** your.email@example.com
-
+- **Email:** juansaezpg@gmail.com
 <!--
 **Saez520/Saez520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
