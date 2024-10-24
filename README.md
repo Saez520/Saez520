@@ -29,7 +29,8 @@ Here are some of the projects I'm proud of:
 -->
 ### 💬 Let's Connect:
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/juan-saez-482a81236)
-- **Email:** juansaezpg@gmail.com
+- **Email:** [Juan Saez](juansaezpg@gmail.com)
+- **Twitter:** [SaezM520](https://twitter.com/saezm520)
 <!--
 **Saez520/Saez520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
