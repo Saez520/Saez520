@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Saez520
 
-🚀 **Full Stack Developer** | Passionate about creating efficient and scalable web applications.
+🚀 **Full Stack Developer** 
+I have almost 3 years of experience working with Java and Spring Boot, along with a strong focus on backend development with Express and TypeScript. I also have experience working on the frontend, handling technologies such as React, Next.js and Tailwind CSS. I am passionate about creating robust and efficient applications, both server-side and frontend.
+I am always looking for new ways to improve my skills and contribute to projects that have a positive impact.
 
 ---
 
