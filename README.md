@@ -18,7 +18,7 @@
   <h2>🛠️ Tech Stack</h2>
 </div>
 
-- **Languages:** Java, JavaScript, TypeScript, SQL
+- **Languages:** Java, JavaScript, TypeScript, SQL, MongoDB
 - **Frameworks & Libraries:** Spring Boot, Express, React, Next.js, Tailwind CSS
 - **Tools & Platforms:** Git, Docker, AWS, Node.js, serverless
 
