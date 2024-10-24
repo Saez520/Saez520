@@ -25,6 +25,36 @@
 ---
 
 <div align="center">
+  <h2>📊 Skill Levels</h2>
+</div>
+
+### Languages
+- **Java**  
+  ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
+- **JavaScript**  
+  ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
+- **TypeScript**  
+  ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
+- **SQL**  
+  ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
+- **MongoDB**  
+  ![★★☆☆☆](https://img.shields.io/badge/Level-★★☆☆☆-orange)
+
+### Frameworks & Libraries
+- **Spring Boot**  
+  ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
+- **Express**  
+  ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
+- **React**  
+  ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
+- **Next.js**  
+  ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
+- **Tailwind CSS**  
+  ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
+
+---
+
+<div align="center">
   <h2>🌱 Currently learning:</h2>
 </div>
 
@@ -33,18 +63,6 @@
 
 ---
 
-<!--
-<div align="center">
-  <h2>✨ Projects</h2>
-</div>
-
-Here are some of the projects I'm proud of:
-- **Project 1:** _Short description with a link to the repo_ 
-- **Project 2:** _Another description with a link_
-
----
--->
-
 <div align="center">
   <h2>💬 Let's Connect:</h2>
 </div>
@@ -52,18 +70,3 @@ Here are some of the projects I'm proud of:
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/juan-saez-482a81236)
 - **Email:** [Juan Saez](mailto:juansaezpg@gmail.com)
 - **Twitter:** [SaezM520](https://twitter.com/saezm520)
-
-<!--
-**Saez520/Saez520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
