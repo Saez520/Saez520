@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Saez520
 
-<img src="URL_DE_TU_BANNER" alt="Banner Saez520" style="width:100%; display:block; margin:0 auto;">
+<img src="banner.jpeg" alt="Banner Saez520" style="width:100%; display:block; margin:0 auto;">
 
 <div align="center">
   <h1>🚀 Full Stack Developer</h1>
