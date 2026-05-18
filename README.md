@@ -3,12 +3,15 @@
 <img src="banner.jpg" alt="Banner Saez520" style="width:100%; display:block; margin:0 auto;">
 
 <div align="center">
-  <h1>🚀 Full Stack Developer</h1>
+  <h1>🚀 Tech Lead & Software Developer</h1>
   <p>
-    I have almost 3 years of experience working with Java and Spring Boot, along with a strong focus on backend development with Express and TypeScript. 
-    I also have experience working on the frontend, handling technologies such as React, Next.js and Tailwind CSS. 
-    I am passionate about creating robust and efficient applications, both server-side and frontend. <br>
-    I am always looking for new ways to improve my skills and contribute to projects that have a positive impact.
+    Tech Lead with 4+ years of experience building and leading high-performance web applications
+    for the mobility and public transport sector. Currently leading a team at Quipux,
+    architecting a monolith-to-microservices migration deployed across Colombia, Brazil, Ecuador,
+    and Ivory Coast.
+
+    Passionate about AI systems engineering — I design multi-agent orchestration architectures
+    and internal AI workflows that reduce development time and token consumption at scale.
   </p>
 </div>
 
@@ -18,9 +21,10 @@
   <h2>🛠️ Tech Stack</h2>
 </div>
 
-- **Languages:** Java, JavaScript, TypeScript, SQL, MongoDB
-- **Frameworks & Libraries:** Spring Boot, Express, React, Next.js, Tailwind CSS
-- **Tools & Platforms:** Git, Docker, AWS, Node.js, serverless
+- **Languages:** Java, JavaScript, TypeScript, SQL, Python
+- **Frameworks & Libraries:** Spring Boot, JPA/Hibernate, Angular, React, Next.js, Express
+- **AI Tooling:** Claude Code, OpenCode, GitHub Copilot, LLM agent orchestration
+- **Tools & Platforms:** Git, PostgreSQL, Node.js, Docker
 
 ---
 
@@ -36,12 +40,14 @@
 - **TypeScript**  
   ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
 - **SQL**  
-  ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
-- **MongoDB**  
+  ![★★★★★](https://img.shields.io/badge/Level-★★★★★-brightgreen)
+- **Python**  
   ![★★☆☆☆](https://img.shields.io/badge/Level-★★☆☆☆-orange)
 
 ### Frameworks & Libraries
 - **Spring Boot**  
+  ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
+- **Angular**  
   ![★★★★☆](https://img.shields.io/badge/Level-★★★★☆-brightgreen)
 - **Express**  
   ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
@@ -49,17 +55,22 @@
   ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
 - **Next.js**  
   ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
-- **Tailwind CSS**  
-  ![★★★☆☆](https://img.shields.io/badge/Level-★★★☆☆-yellow)
 
 ---
 
 <div align="center">
-  <h2>🌱 Currently learning:</h2>
+  <h2>🤖 Featured AI Project</h2>
 </div>
 
-- Cloud infrastructure and DevOps practices
-- Microservices architecture
+### FlowTask — Multi-Agent Development Orchestration System
+AI-driven workflow system that coordinates specialized agents (planner, constructor,
+validator, inspector) to automate end-to-end software development tasks. Currently in
+post-development maintenance and iteration.
+
+**Key result:** 91% reduction in context token consumption per operation
+(from ~2,200 to ~180 tokens) via LSP + AST-Grep semantic isolation.
+
+→ [View repository](https://github.com/Saez520/flowtask)
 
 ---
 
